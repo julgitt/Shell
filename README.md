@@ -1,6 +1,7 @@
 # Shell
 #### Project carried out as part of Operating Systems class.
 #### The code I wrote is in the files: command.c, jobs.c, shell.c and is marked by the directive `#ifdef STUDENT`.
+[detailed description](https://github.com/julgitt/Shell/blob/main/projekt-shell.pdf)
 ----
 
 #### It handles among others job control with the use of the commands:
