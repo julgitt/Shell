@@ -2,7 +2,7 @@
 #### Project carried out as part of Operating Systems class.
 #### The code I wrote is in the files: command.c, jobs.c, shell.c and is marked by the directive `#ifdef STUDENT`.
 
-[detailed description](https://github.com/julgitt/Shell/blob/main/projekt-shell.pdf)
+[detailed description of the task](https://github.com/julgitt/Shell/blob/main/projekt-shell.pdf)
 
 ----
 
